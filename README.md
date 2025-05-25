@@ -31,4 +31,7 @@ $ npm start
 
 ...to launch the app!
 
-<!-- GitAds-Verify: XBCQXRCRTJVLACQ6A4ZBTDDKV3OUGCIT -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/hyperterm@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/hyperterm@github)
+
+
